@@ -1,0 +1,19 @@
+1. get mujoco student license and set up
+2. learn openaigym basics last 2 links
+3. read diversity is all you need paper and get repo running
+4. read imagined goals and set up repo
+
+note: for (3) might to reimplement with modern
+
+
+Regular check ins:
+M,Tues,F - 10AM
+
+
+https://arxiv.org/pdf/1802.06070.pdf
+https://github.com/ben-eysenbach/sac
+https://arxiv.org/pdf/1807.04742.pdf
+https://github.com/vitchyr/rlkit
+https://github.com/openai/mujoco-py
+https://gym.openai.com/docs/
+https://ai-mrkogao.github.io/reinforcement%20learning/openaigymtutorial/
