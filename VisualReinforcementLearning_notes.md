@@ -1,6 +1,6 @@
 # Visual Reinforcement Learning with Imagined Goals
 
-##Questoins
+## Questions
 1. What is a goal-condtioned skill?
 2. What is the reward function is 4.2
 3. What is the latent space?
