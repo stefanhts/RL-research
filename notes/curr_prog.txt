@@ -1,0 +1,3 @@
+ben-eysenbach/sac -- On step 3 currently in /tmp
+virchyr.rlkit -- On step 1, got conda installed, but cant create the env...
+
