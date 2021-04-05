@@ -1,4 +1,4 @@
-# DIAYN - "Diversity is all you need"
+# [DIAYN - "Diversity is all you need"](https://arxiv.org/pdf/1802.06070.pdf)
 > A method for learning skills without a reward function by maximizing an information theoretic objective
 > using a maximum entropy policy.
 
@@ -87,3 +87,9 @@ DIAYN discovers diverse and discrete skills which form the building blocks of HR
 
 ## Conclusion
 DIAYN is a method for learning skills without a reward function. It learns diverse skills for complext tasks and often solves with a learned skill without receiving any task reward. It can make learning a task easier by replacing the task's complex action space with a useful set of skills. It can be combined with other methods for augmentingthe observations space and reward funciton. IT can also possibly learn more efficiently from human preferences by having humans select among learned skills. 
+
+
+# Things to look into
+1. code for eqn 1., take notes on eqn. to code overlap
+2. find what the learned descriminator uses 3.1
+3. 
