@@ -1,4 +1,4 @@
-# DIAYN - "Diversity is all you need"
+# [DIAYN - "Diversity is all you need"] (https://arxiv.org/pdf/1802.06070.pdf)
 > A method for learning skills without a reward function by maximizing an information theoretic objective
 > using a maximum entropy policy.
 
