@@ -1,4 +1,5 @@
 # Eqn 1 and it's code
+[paper described in the code](https://arxiv.org/pdf/1801.01290.pdf)
 
 ## The RLAlgorithm File:
 This contains the actual training code. This is where the agent is given data and chooses an action, the loss is calculated and the alg learns this all occurs in _train()
@@ -55,8 +56,13 @@ The separate function for state value function approximation stailizess training
 1. get policy distribution
 2. set log_pi_t to the log_p_t of the _policy_dist
 3. Set the v_f
-4.  
 
 
 
-## _init_discriminator_update
+## upper level summary
+* The minimization operation for updating the Q-function is created in _init_critic_update()
+* The minimization operations for the policy and state value functions occur in _init_actor_update()
+* The discriminator update function is _init_discriminator_update()
+* The _evaluate() function evaluates the current policy
+* _get_best_single_option_policy() find the best single option policy
+
