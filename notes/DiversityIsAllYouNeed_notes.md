@@ -92,4 +92,7 @@ DIAYN is a method for learning skills without a reward function. It learns diver
 # Things to look into
 1. code for eqn 1., take notes on eqn. to code overlap
 2. find what the learned descriminator uses 3.1
-3. 
+3. What is the format of the skills?
+4. send email with description of alg and skills
+5. Include estimate of how long it would take to reimplement in pytorch
+6. Send an email with update on 4/6
